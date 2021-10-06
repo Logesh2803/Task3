@@ -1,0 +1,11 @@
+
+.calculator-keys {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    padding: 20px;
+  }
+  button {
+    height: 60px;
+    font-size: 2rem!important;
+  }
